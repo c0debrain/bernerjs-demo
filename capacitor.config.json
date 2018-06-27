@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.bernerjsdemo",
+  "appName": "BerneJSDemo",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
